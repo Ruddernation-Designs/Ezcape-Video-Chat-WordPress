@@ -1,20 +1,20 @@
 <?php
 
 /*
-* Plugin Name: Ezcape Video Chat (Formally kageshi)
+* Plugin Name: Ezcape Video Flash Chat
 * Plugin URI: https://wordpress.org/plugins/ezcape-chat/
 * Author: Ruddernation Designs
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
 * Description: This allows you to have Ezcape chat on your blog, Make sure the chat room exists though! (Formally Kageshi)
-* Requires at least: WordPress 4.6, BuddyPress 2.6
-* Tested up to: WordPress 4.9.7, BuddyPress 3.1.0
-* Version: 1.0.8
+* Requires at least: WordPress 4.6, BuddyPress 3.6
+* Tested up to: WordPress 5.1, BuddyPress 4.1.0
+* Version: 1.1.3
 * License: GNUv3
 * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-* Date: 25th September 2018
+* Date: 03rd March 2019
 */
 
-define('COMPARE_VERSION', '1.0.7');
+define('COMPARE_VERSION', '1.1.2');
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 register_activation_hook(__FILE__, 'ezcapechat_install');
 function ezcapechat_install() {
@@ -71,7 +71,7 @@ jQuery(document).ready(function() {
 
 <br>
     <div class="info">                              
-        <h3 class="main" title="Click Me!">Info</h3>             
+        <h3 class="main" title="Click Me!">Click me!</h3>             
         <p  class="chatinfo" tabindex="3">
 			<strong>This allows you to join ezcape chat rooms with Camera/Mic of up to 12 people,<br>
 
