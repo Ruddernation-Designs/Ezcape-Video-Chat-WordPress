@@ -4,8 +4,8 @@ Contributors: ruddernationdesigns
 Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: ezcapechat, video chat, wordpress video chat, flash video chat, chat, kageshi
 Requires at least: 4.8
-Tested up to: 5.1
-Stable tag: 1.1.3
+Tested up to: 5.2
+Stable tag: 1.1.4
 License: GNUv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -87,6 +87,10 @@ You will need to allow 'Flash Player' on your domain, To download please use htt
 = 1.1.1 =
 
 * Name change! Remember this chat uses 'Adobe Flash Player' so you will need to enable it on the browser.
+
+= 1.1.4 =
+
+* Tested up to WP 5.2 with no issues.
 
 == Social Sites ==
 
