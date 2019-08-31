@@ -1,20 +1,20 @@
 <?php
 
 /*
-* Plugin Name: Ezcape Video Flash Chat
+* Plugin Name: Video Chat (Using Ezcape Chat)
 * Plugin URI: https://wordpress.org/plugins/ezcape-chat/
 * Author: Ruddernation Designs
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
 * Description: This allows you to have Ezcape chat on your blog, Make sure the chat room exists though! (Formally Kageshi)
 * Requires at least: WordPress 4.6, BuddyPress 3.6
-* Tested up to: WordPress 5.2, BuddyPress 4.1.0
-* Version: 1.1.4
+* Tested up to: WordPress 5.2.2, BuddyPress 4.1.0
+* Version: 1.1.7
 * License: GNUv3
 * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-* Date: 07th May 2019
+* Date: 30th August 2019
 */
 
-define('COMPARE_VERSION', '1.1.3');
+define('COMPARE_VERSION', '1.1.6');
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 register_activation_hook(__FILE__, 'ezcapechat_install');
 function ezcapechat_install() {
@@ -75,13 +75,13 @@ jQuery(document).ready(function() {
         <p  class="chatinfo" tabindex="3">
 			<strong>This allows you to join ezcape chat rooms with Camera/Mic of up to 12 people,<br>
 
-	It also has YouTube so you can play your videos, There are also hundreds of registered chat rooms that you can visit and they normally contain and average of 14 chatters,<br>
+	It also has YouTube so you can play your videos, There are also hundreds of registered chat rooms that you can visit and they normally contain and average of 19 chatters,<br>
 
 	Simply enter your room name in to the form above.<br>
 
 	</strong></p>   
     </div>
-		<h3>btvparty | lurkchat | the_others | chat | 40supfriendsflirts | uncle_tripp | ruddernation</h3>
+		<h3>btvparty | lurkchat | the_others | chat | 40supfriendsflirts | uncle_tripp | smokefilledthoughts | cannabuzz </h3>
 
 <?php
 	$room = filter_input(INPUT_POST, 'room');
@@ -106,6 +106,7 @@ jQuery(document).ready(function() {
 	width: 100%;
     height: 100%;
 	position:fixed;
+    top:0;
 	left:0px;
 	right:0px;
 	bottom:0px;
