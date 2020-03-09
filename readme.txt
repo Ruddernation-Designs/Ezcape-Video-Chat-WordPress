@@ -1,11 +1,11 @@
-=== Ezcape Video Chat (Flash) ===
+=== Flash Video Chat - Ezcape Chat ===
 
 Contributors: ruddernationdesigns
 Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: ezcapechat, video chat, wordpress video chat, flash video chat, chat, kageshi
 Requires at least: 5.0
-Tested up to: 5.3.2
-Stable tag: 1.2.3
+Tested up to: 5.4
+Stable tag: 1.2.5
 License: GNUv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -116,6 +116,14 @@ You will need to allow 'Flash Player' on your domain, To download please use htt
 
 * Increased room size to fit the whole screen.
 
+= 1.2.4 =
+
+* Removed (Flash) from title name.
+
+= 1.2.5 =
+
+* Tested upto WP 5.4 without issues, There has also been a name change, You can now contact me with my details below.
+
 == Social Sites ==
 
 * Ezcape Chat - https://www.ezcapechat.cf/
@@ -129,3 +137,7 @@ You will need to allow 'Flash Player' on your domain, To download please use htt
 * WordPress - https://profiles.wordpress.org/ruddernationdesigns
 
 * Stack Overflow  - http://stackoverflow.com/users/5774880/ruddernation-designs
+
+== Contact Details ==
+
+* Email - support@ruddernation.com - Any issues then please contact me here.
