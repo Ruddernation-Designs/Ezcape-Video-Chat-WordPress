@@ -1,18 +1,18 @@
 <?php
 /*
-* Plugin Name: Ezcape Video Chat (Flash)
+* Plugin Name: Flash Video Chat - Ezcape Chat
 * Plugin URI: https://wordpress.org/plugins/ezcape-chat/
 * Author: Ruddernation Designs
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
 * Description: This allows you to have Ezcape chat on your blog, Make sure the chat room exists though! (Formally Kageshi)
 * Requires at least: WordPress 4.6, BuddyPress 4.0.0
-* Tested up to: WordPress 5.3.2
-* Version: 1.2.3
+* Tested up to: WordPress 5.4
+* Version: 1.2.5
 * License: GNUv3
 * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-* Date: 01st January 2020
+* Date: 09th March 2020
 */
-define('COMPARE_VERSION', '1.2.2');
+define('COMPARE_VERSION', '1.2.4');
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 register_activation_hook(__FILE__, 'ezcapechat_install');
 
