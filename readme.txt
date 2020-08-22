@@ -4,8 +4,8 @@ Contributors: ruddernationdesigns
 Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: ezcapechat, video chat, wordpress video chat, flash video chat, chat, kageshi
 Requires at least: 5.0
-Tested up to: 5.4
-Stable tag: 1.2.5
+Tested up to: 5.5
+Stable tag: 1.2.9
 License: GNUv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -13,6 +13,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 This allows you to use ezcape chat on your blog! Provided you have flash allowed and you will have to make sure that the chat exists otherwise it wont work!
 Use ruddernation for example.
+To creat an account, Please visit <a href="https://www.ezcapechat.com"  rel="nofollow ugc"  >Ezcape Chat - Formally Kageshi's</a>
 
 == Installation ==
 
@@ -30,7 +31,7 @@ Simply use shortcode [ezcapechat_page] in a page.
 
 == Notes ==
 
-You will need to allow 'Flash Player' on your domain, To download please use https://get.adobe.com/flashplayer/.
+You will need to allow 'Flash Player' on your domain, To download please use <a href="https://get.adobe.com/flashplayer/"  rel="nofollow ugc"  >Flash Player</a>.
 
 == Frequently Asked Questions ==
 
@@ -44,7 +45,7 @@ You will need to allow 'Flash Player' on your domain, To download please use htt
 
 * Q. The chat is not loading for me.
 
-* A. Check to see if you have the Adobe flash player installed (http://helpx.adobe.com/flash-player.html) and JavaScript enabled in your browser.
+* A. Check to see if you have the Adobe flash player installed (<a href="http://helpx.adobe.com/flash-player.html"  rel="nofollow ugc"  >Flash player help</a>) and JavaScript enabled in your browser.
 
 == Changelog ==
 
@@ -124,20 +125,31 @@ You will need to allow 'Flash Player' on your domain, To download please use htt
 
 * Tested upto WP 5.4 without issues, There has also been a name change, You can now contact me with my details below.
 
+= 1.2.8 =
+
+* Tested up to Wordpress 5.5 with no issues.
+
+
 == Social Sites ==
 
-* Ezcape Chat - https://www.ezcapechat.cf/
+* <a href="https://www.ruddernation.com"  rel="nofollow ugc">Developers Website</a>
 
-* Developers Website - https://www.ruddernation.com
+* <a href="https://www.facebook.com/rndtinychat"  rel="nofollow ugc">Facebook Page</a>
 
-* Facebook Page - https://www.facebook.com/rndtinychat
+* <a href="https://github.com/Ruddernation-Designs" rel="nofollow ugc">GitHub</a>
 
-* GitHub - https://github.com/Ruddernation-Designs
+* <a href="https://profiles.wordpress.org/ruddernationdesigns"  rel="nofollow ugc">WordPress</a>
 
-* WordPress - https://profiles.wordpress.org/ruddernationdesigns
+* <a href="http://stackoverflow.com/users/5774880/ruddernation-designs" rel="nofollow ugc">Stack Overflow</a>
 
-* Stack Overflow  - http://stackoverflow.com/users/5774880/ruddernation-designs
+* <a href="https://tinychat.com" rel="nofollow ugc">Tinychat</a>
+
+* <a href="https://www.ezcapechat.cf/"  rel="nofollow ugc">Special thanks to Ezcape Chat Creators.</a>
+
+* <a href="https://www.ruddernation.com/privacy-policy/" rel="nofollow ugc">Privacy Policy for Ruddernation Designs</a>
+
+* <a href="https://tinychat.com/privacy.html" rel="nofollow ugc">Privacy Policy for Tinychat</a>
 
 == Contact Details ==
 
-* Email - support@ruddernation.com - Any issues then please contact me here.
+* <a href="mailto:support@ruddernation.com" rel="nofollow ugc">Email</a> - Any issues then please contact me here.
