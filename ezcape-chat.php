@@ -5,14 +5,14 @@
 * Author: Ruddernation Designs
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
 * Description: This allows you to have Ezcape chat on your blog, Make sure the chat room exists though! (Formally Kageshi)
-* Requires at least: WordPress 4.6, BuddyPress 4.0.0
-* Tested up to: WordPress 5.4
-* Version: 1.2.5
+* Requires at least: WordPress 5.0, BuddyPress 4.0.0
+* Tested up to: WordPress 5.5
+* Version: 1.2.9
 * License: GNUv3
 * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-* Date: 09th March 2020
+* Date:06th August 2020
 */
-define('COMPARE_VERSION', '1.2.4');
+define('COMPARE_VERSION', '1.2.8');
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 register_activation_hook(__FILE__, 'ezcapechat_install');
 
