@@ -1,11 +1,11 @@
-=== Flash Video Chat - Ezcape Chat ===
+=== Flash Video Chat ===
 
 Contributors: ruddernationdesigns
 Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: ezcapechat, video chat, wordpress video chat, flash video chat, chat, kageshi
-Requires at least: 5.0
+Requires at least: Wordpress 5.0
 Tested up to: 5.5
-Stable tag: 1.2.9
+Stable tag: 1.3.0
 License: GNUv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
