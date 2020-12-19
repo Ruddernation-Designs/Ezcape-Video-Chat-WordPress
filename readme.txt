@@ -1,11 +1,11 @@
-=== Flash Video Chat ===
+=== Ezcape Video Chat ===
 
 Contributors: ruddernationdesigns
 Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: ezcapechat, video chat, wordpress video chat, flash video chat, chat, kageshi
 Requires at least: Wordpress 5.0
-Tested up to: 5.5
-Stable tag: 1.3.0
+Tested up to: 5.6
+Stable tag: 1.3.1
 License: GNUv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -134,21 +134,11 @@ You will need to allow 'Flash Player' on your domain, To download please use <a 
 
 * <a href="https://www.ruddernation.com"  rel="nofollow ugc">Developers Website</a>
 
-* <a href="https://www.facebook.com/rndtinychat"  rel="nofollow ugc">Facebook Page</a>
-
-* <a href="https://github.com/Ruddernation-Designs" rel="nofollow ugc">GitHub</a>
-
 * <a href="https://profiles.wordpress.org/ruddernationdesigns"  rel="nofollow ugc">WordPress</a>
-
-* <a href="http://stackoverflow.com/users/5774880/ruddernation-designs" rel="nofollow ugc">Stack Overflow</a>
-
-* <a href="https://tinychat.com" rel="nofollow ugc">Tinychat</a>
 
 * <a href="https://www.ezcapechat.cf/"  rel="nofollow ugc">Special thanks to Ezcape Chat Creators.</a>
 
 * <a href="https://www.ruddernation.com/privacy-policy/" rel="nofollow ugc">Privacy Policy for Ruddernation Designs</a>
-
-* <a href="https://tinychat.com/privacy.html" rel="nofollow ugc">Privacy Policy for Tinychat</a>
 
 == Contact Details ==
 
