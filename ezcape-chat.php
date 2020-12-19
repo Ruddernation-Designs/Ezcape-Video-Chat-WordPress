@@ -4,16 +4,16 @@
 * Plugin URI: https://wordpress.org/plugins/ezcape-chat/
 * Author: Ruddernation Designs
 * Author URI: https://profiles.wordpress.org/ruddernationdesigns
-* Description: This allows you to have Ezcape chat on your blog, Make sure the chat room exists though! (Formally Kageshi)
+* Description: This allows you to have Ezcape chat on your blog, Make sure the chat room exists though! (Formally Kageshi) and you will need flash player enabled.
 * Requires at least: WordPress 2.0, BuddyPress 1.0.0
-* Tested up to: 5.5
-* Version: 1.3.0
+* Tested up to: 5.6
+* Version: 1.3.1
 * License: GNUv3
 * License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
-* Date:28th November 2020
+* Date:19th December 2020
 */
-define('COMPARE_VERSION', '1.2.9');
-defined( 'ABSPATH' ) or die( 'Soooo What you looking for?' );
+define('COMPARE_VERSION', '1.3.0');
+defined( 'ABSPATH' ) or die( 'Anime is not just for Christmas, but for Life!' );
 register_activation_hook(__FILE__, 'ezcapechat_install');
 
 function ezcapechat_install() {
@@ -119,7 +119,7 @@ function wp_show_ezcapechat() {
 			
 			echo '<style>iframe {width: 100%;height: 100%;position:fixed;top:0px;left:0px;right:0px;bottom:0px;z-index:9999999;}</style>
 	
-<iframe class="iframe" src="https://www.ezcapechat.com/rooms/'.$room.'/" name="room" frameborder="0" scrolling="yes" height="100%" width="100%" allow="geolocation; microphone; camera"></iframe>';
+<iframe class="iframe" src="https://www.ezcapechat.com/rooms/'.$room.'/" name="room" frameborder="0" scrolling="yes" height="100%" width="100%" allow="geolocation; microphone; camera;"></iframe>';
 		}
 					}
 								}
