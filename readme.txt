@@ -1,13 +1,13 @@
-=== Ezcape Video Chat ===
+=== Ezcape Video Chat - Discontinued ===
 
 Contributors: ruddernationdesigns
 Donate link: https://www.paypal.me/RuddernationDesigns
 Tags: ezcapechat, video chat, wordpress video chat, flash video chat, chat, kageshi
 Requires at least: Wordpress 5.0
 Tested up to: 5.6
-Stable tag: 1.3.1
-License: GNUv3
-License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Stable tag: 1.3.2
+License: MIT 
+License URI: https://opensource.org/licenses/MIT
 
 == Description ==
 
@@ -128,6 +128,11 @@ You will need to allow 'Flash Player' on your domain, To download please use <a 
 = 1.2.8 =
 
 * Tested up to Wordpress 5.5 with no issues.
+
+= 1.3.2 =
+
+* This has now been discontinued due to ezcapechat.com now having their domain set to 'SameOrigin' in their X-Frame-Options, 
+* This is unfortunate, but I thank the owners for the use the plugin had for a limit time, so Thanks to the owners and sorry to all affected.
 
 
 == Social Sites ==
